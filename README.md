@@ -63,7 +63,7 @@
     "Cảm ơn vì em đã đến 💖",
     "Anh sẽ luôn bên cạnh em",
     "Anh yêu em nhiều lắm",
-    "Nơi nào đều có 2 ta, chắc chắn",
+    "Nơi nào đều có 2 ta",
     "Đào Trung Hiếu 💖 Nguyễn Thị Trang",
   ];
 
